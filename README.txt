@@ -1,3 +1,3 @@
-(./thumnail.png)
+![THUMNAIL ](./thumnail.sentiment.png)
 
 
